@@ -1,3 +1,4 @@
+//@ts-nocheck
 import React, { useEffect } from 'react'
 import { useFrame, useLoader } from '@react-three/fiber'
 import { MeshReflectorMaterial } from '@react-three/drei'
